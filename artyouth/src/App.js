@@ -5,21 +5,23 @@ import './App.css';
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
+      <div>
+      <div className='frame'>
+      <div className='focal'>
+      <div className='title-image title-image-1'>
+      </div>
+      <div className='title-image title-image-2'>
+      </div>
+      <div className='title title-1'>
+      <span>GUERILLA<br/>ART<br/>YOUTH<br/>SCHOLARS</span>
+      </div>
+      </div>
+      </div>
+      <div className='frame frame-dark'>
+      <div className='title-link'>
+      <a href="mailto:mail@artyouth.com">contact us</a>
+      </div>
+      </div>
       </div>
     );
   }
