@@ -1,0 +1,73 @@
+* {
+  font-family: Helvetica, 'Archivo Narrow', Arial, sans-serif;
+  font-size: 8vh;
+  letter-spacing: -0.2vh;
+  font-weight: 700;
+  line-height: 8vh;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+p, span, body {
+
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+.frame {
+  width: 150vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  right: 25vw;
+}
+
+.title {
+
+}
+
+.focal {
+  position: relative;
+  top: -40vh;
+  left: 12vh;
+}
+
+.title-image {
+  position: relative;
+  mix-blend-mode: multiply;
+  background-image: url('./img/blueno-halftone-blue.gif');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: contain;
+}
+
+.title-image-1 {
+  width: 25vh;
+  height: 25vh;
+  left: -27vh;
+  top: 69vh;
+}
+
+.title-image-2 {
+  width: 50vh;
+  height: 30vh;
+  left: -20vh;
+  top: 64vh;
+  filter: hue-rotate(110deg);
+}
+
+.frame-dark {
+  background-color: black;
+}
+
+.title-link {
+  color: white;
+  border-bottom: 5px solid #06AFFF;
+}
