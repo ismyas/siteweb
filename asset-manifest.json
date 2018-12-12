@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.aae07015.chunk.css",
-  "main.js": "/static/js/main.3fccfde3.chunk.js",
-  "main.js.map": "/static/js/main.3fccfde3.chunk.js.map",
+  "main.js": "/static/js/main.53ae787e.chunk.js",
+  "main.js.map": "/static/js/main.53ae787e.chunk.js.map",
   "static/js/1.324b6cf3.chunk.js": "/static/js/1.324b6cf3.chunk.js",
   "static/js/1.324b6cf3.chunk.js.map": "/static/js/1.324b6cf3.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
@@ -10,6 +10,6 @@
   "static/media/App.css": "/static/media/blueno-halftone-blue.24bb152f.gif",
   "static/css/main.aae07015.chunk.css.map": "/static/css/main.aae07015.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.5aa231ae42a2597c911528a1af29103b.js": "/precache-manifest.5aa231ae42a2597c911528a1af29103b.js",
+  "precache-manifest.8281798f153aa0d8a59c04c14bc4e97f.js": "/precache-manifest.8281798f153aa0d8a59c04c14bc4e97f.js",
   "service-worker.js": "/service-worker.js"
 }
